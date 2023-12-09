@@ -1,4 +1,4 @@
-## Project Feid Website Page
+# Project Feid Website Page
 I've got motivated from my favorite artist Feid(Ferxxo)💚
 
 # [You can view the project here](https://project-feid-website-page.vercel.app/) ⚡️ 
